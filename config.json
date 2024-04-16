@@ -1,0 +1,16 @@
+{
+  "auths": {
+    "docker.pkg.github.com": {
+      "auth": "VVNFUk5BTUU6Z2h1X0hIajNOdUEzbWo4SjJiZ3c5ME85SzNCN1RDb29PejFOc0dkZQ=="
+    },
+    "ghcr.io": {
+      "auth": "bWFzdGVyb2ZibGFzdGVyczpnaHVfSEhqM051QTNtajhKMmJndzkwTzlLM0I3VENvb096MU5zR2Rl"
+    },
+    "https://index.docker.io/v1/": {
+      "auth": "Y29kZXNwYWNlc2RldjpkZjBlZTZhZC1mOWIyLTQyM2MtODc4Zi02MzVkMGM5NGRjYzI="
+    }
+  },
+  "HttpHeaders": {
+    "X-Meta-Source-Client": "github/codespaces"
+  }
+}
